@@ -1,6 +1,8 @@
 ### 👋 Hello everyone, my name is Alexander
 
-I'm a full-stack engineer with over five years of professional experience in product companies. I have worked with many web technologies, but I enjoy developing with React and Node.js. I have expertise in leading mini-teams and mentoring. I'm a lifelong learner and enjoy building exciting projects that allow me to use my skills and creativity. Off work, I enjoy car culture and golf.
+I'm a full-stack engineer with over five years of professional experience in product companies. I have worked with many web technologies, but I enjoy developing with React and Node.js. I'm a lifelong learner and enjoy building exciting projects that allow me to use my skills and creativity. In my spare time, I enjoy car culture and golf.
+
+During my free time, I have a passion for cars and enjoy playing golf.
 
 ### ⚙️ Backend stack
 
