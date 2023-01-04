@@ -9,6 +9,7 @@ I'm a full-stack engineer with over five years of professional experience in pro
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=PM2&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=Express&logoColor=green)
 ![Fastify](https://img.shields.io/badge/Fastify-FFFFFF?style=for-the-badge&logo=Fastify&logoColor=black)
+![Socket.io](https://img.shields.io/badge/Socket.io-FFFFFF?style=for-the-badge&logo=Socket.io&logoColor=black)
 ![Jest](https://img.shields.io/badge/Jest-15C213?style=for-the-badge&logo=Jest&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
