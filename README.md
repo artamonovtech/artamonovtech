@@ -1,6 +1,6 @@
-### 👋 Hello everyone, my name is Alexander
+### 👋🏻 Hello everyone, my name is Alexander
 
-I'm a full-stack engineer with over five years of professional experience in product companies. I have worked with many web technologies, but I enjoy developing with Node.js and React. I'm a lifelong learner and enjoy building exciting projects that allow me to use my skills and creativity. In my spare time, I enjoy car culture and golf.
+I'm a full-stack engineer with over five years of professional experience in product companies. I have worked with many web technologies, but I enjoy developing with Node.js and React. I'm a lifelong learner and enjoy building exciting projects that allow me to use my skills and creativity.
 
 ### ⚙️ Backend stack
 
@@ -29,7 +29,9 @@ I'm a full-stack engineer with over five years of professional experience in pro
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
 
-### 🤝 Connect with me
+### 🤝🏻 Connect with me
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/artamonovtech
+
+### 👨🏻‍💻 Read full resume [EN](./content/cv-en.md) / [RU](./content/cv-ru.md)
