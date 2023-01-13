@@ -2,8 +2,6 @@
 
 I'm a full-stack engineer with over five years of professional experience in product companies. I have worked with many web technologies, but I enjoy developing with Node.js and React. I'm a lifelong learner and enjoy building exciting projects that allow me to use my skills and creativity.
 
-### 👨🏻‍💻 More about me: [EN](./content/cv-en.md) / [RU](./content/cv-ru.md)
-
 ### ⚙️ Backend stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
