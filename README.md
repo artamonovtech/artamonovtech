@@ -31,5 +31,7 @@ I'm a full-stack engineer with over five years of professional experience in pro
 
 ### 🤝🏻 Connect with me
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />][linkedin]
+[<img alt="Habr" src="https://img.shields.io/badge/Habr-65A3BE?style=for-the-badge&logo=Habr&logoColor=white" />][habr]
 
 [linkedin]: https://www.linkedin.com/in/artamonovtech
+[habr]: https://career.habr.com/artamonov-tech
