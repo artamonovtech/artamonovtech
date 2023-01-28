@@ -29,11 +29,9 @@ I'm a full-stack engineer with over five years of professional experience in pro
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
 
-<!--
 ### 🤝🏻 Connect with me
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />][linkedin]
-[<img alt="Habr" src="https://img.shields.io/badge/Habr-65A3BE?style=for-the-badge&logo=Habr&logoColor=white" />][habr]
+[<img alt="HabrCareer" src="https://img.shields.io/badge/Habr_Career-65A3BE?style=for-the-badge&logo=Habr&logoColor=white" />][habrcareer]
 
+[habrcareer]: https://career.habr.com/artamonov-tech
 [linkedin]: https://www.linkedin.com/in/artamonovtech
-[habr]: https://career.habr.com/artamonov-tech
--->
