@@ -13,7 +13,6 @@ I'm a Software Engineer with over six years of professional experience in produc
 ![Socket.io](https://img.shields.io/badge/Socket.io-FFFFFF?style=for-the-badge&logo=Socket.io&logoColor=black)
 ![Jest](https://img.shields.io/badge/Jest-FFFFFF?style=for-the-badge&logo=Jest&logoColor=brightgreen)
 ![K6.io](https://img.shields.io/badge/k6.io-FFFFFF?style=for-the-badge&logo=k6&logoColor=7D64FF)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/clickhouse-e6a715?style=for-the-badge&logo=clickhouse&logoColor=white)
