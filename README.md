@@ -3,7 +3,7 @@
 I'm a Software Engineer with over six years of professional experience in product companies. I have worked with many web technologies, but I enjoy developing with Node.js and React. I'm a lifelong learner and enjoy building exciting projects that allow me to use my skills and creativity.
 
 ### ⚙️ Backend stack
-
+![GoLang](https://img.shields.io/badge/GoLang-00ADD8?style=for-the-badge&logo=Go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=PM2&logoColor=white)
@@ -17,6 +17,7 @@ I'm a Software Engineer with over six years of professional experience in produc
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/clickhouse-e6a715?style=for-the-badge&logo=clickhouse&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=Swagger&logoColor=white)
 
