@@ -8,7 +8,6 @@ I'm a Software Engineer with over eight years of professional experience in prod
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=PM2&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=PM2&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=Express&logoColor=green)
 ![Fastify](https://img.shields.io/badge/Fastify-FFFFFF?style=for-the-badge&logo=Fastify&logoColor=black)
 ![NestJS](https://img.shields.io/badge/NestJS-FFFFFF?style=for-the-badge&logo=NestJS&logoColor=E0234E)
