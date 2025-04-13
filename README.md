@@ -1,12 +1,13 @@
 ### 👋🏻 Hello everyone, my name is Alexander
 
-I'm a Software Engineer with over six years of professional experience in product companies. I have experience in many web technologies, but my preference is for developing using Golang, Node.js and React. I'm a lifelong learner and enjoy building exciting projects that allow me to use my skills and creativity.
+I'm a Software Engineer with over eight years of professional experience in product companies. I have experience in many web technologies, but my preference is for developing using Golang, Node.js and React. I'm a lifelong learner and enjoy building exciting projects that allow me to use my skills and creativity.
 
 ### ⚙️ Backend stack
 
 ![GoLang](https://img.shields.io/badge/GoLang-00ADD8?style=for-the-badge&logo=Go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=PM2&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=PM2&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=Express&logoColor=green)
 ![Fastify](https://img.shields.io/badge/Fastify-FFFFFF?style=for-the-badge&logo=Fastify&logoColor=black)
