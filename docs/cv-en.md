@@ -21,8 +21,8 @@ Software Engineer with 9+ years of experience in product companies. I have worke
 
 ## Languages
 
-- Russian — Native / Bilingual
-- English — Limited Working Proficiency
+- Russian — Native
+- English — B1 (Limited Working Proficiency)
 
 ## Core Skills
 
