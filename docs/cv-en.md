@@ -10,7 +10,7 @@
 
 ## Summary
 
-Software Engineer with 9+ years of experience in product companies. I have worked with many web technologies, but my strongest background is in Go, Node.js and React. I have experience leading mini-teams and mentoring engineers, and I am a lifelong learner who enjoys building exciting projects that let me apply my skills and creativity. My current focus is the platform layer of high-load microservices: API Gateway, traffic management, observability and secure service-to-service communication.
+Software Engineer with 9+ years of experience in product companies. I have worked with many web technologies, but I prefer developing with Golang, Node.js and React. I have experience leading mini-teams and mentoring engineers. I am a lifelong learner and follow the industry's best practices. I enjoy working on interesting projects where I can make effective use of my skills and creativity. My current focus is platform solutions for high-load microservices and the API platform: API Gateway, traffic management, observability and secure service-to-service communication. I work at the intersection of infrastructure and product teams.
 
 ## Location & Availability
 
