@@ -61,6 +61,13 @@ Technical Lead in a platform team that designs and implements the API Management
 
 Trend research and optimal selection of tools and technologies to address constantly changing business requirements for Node.js services and applications. I actively develop the team and give presentations on the latest trends and best practices in the technology stack.
 
+**Achievements:**
+- Advanced the service architecture and deliberately moved services to a more modern stack, optimized performance — accelerated the release cycle by establishing SDLC processes and improved time to market.
+- Owned technology research and tooling selection for rapidly changing business requirements for Node.js and Go services: comparison of alternatives, prototypes, performance benchmarks and decision rationale.
+- Supported team growth: mentoring, code reviews and help with adopting the new stack (Node.js, TypeScript, Go).
+- Introduced regular talks in the team on stack trends and best practices — a shared understanding of technical decisions and development approaches.
+- Took part in hiring developers and ran onboarding and adaptation of new engineers — faster immersion into processes and shorter time to productivity.
+
 **Stack:** Go, TypeScript, Node.js, NestJS, PostgreSQL, Redis, Apache Kafka, RabbitMQ
 
 ### Soft Project — Backend Engineer
@@ -70,6 +77,13 @@ Trend research and optimal selection of tools and technologies to address consta
 **Period:** November 2020 — April 2022 · 1 year 6 months · Moscow, Russia
 
 Developed microservices for the multi-channel communication CPaaS platform. Appointed Tech Lead of the Node.js services: mentoring, decomposition and task delegation. Main backend stack: Go, TypeScript, Node.js, PM2, Express, Fastify, Socket.IO, Jest, Sequelize, MySQL, ClickHouse, Elasticsearch, Redis, RabbitMQ, OpenAPI.
+
+**Achievements:**
+- Decomposed and decoupled modules of a Ruby on Rails monolith, rethought legacy approaches and diversified the technology stack — improved performance of bottlenecks thanks to extracted services.
+- Developed microservices for the multi-channel communication CPaaS platform on Node.js (Express, Fastify, Socket.IO) and Go.
+- Designed service data handling: using the Billing Service as an example, migrated from MySQL to ClickHouse — higher transaction throughput and faster analytics. Rethought the asynchronous architecture and moved it to RabbitMQ with deduplication on Redis. Improved the High Availability of the Billing Service: ClickHouse in a fault-tolerant cluster and RabbitMQ in durable mode.
+- Covered critical scenarios with Unit and E2E tests on Jest and described APIs with OpenAPI — stable releases and clear contracts for adjacent teams.
+- Appointed Tech Lead of the Node.js services: task decomposition and delegation, mentoring and code reviews.
 
 **Stack:** Go, TypeScript, Node.js, Express, RESTful API, MySQL, ClickHouse, Redis, RabbitMQ
 
@@ -81,6 +95,11 @@ Developed microservices for the multi-channel communication CPaaS platform. Appo
 
 Development of the backend for a new events catalog, including the migration to a different stack.
 
+**Achievements:**
+- Took over the project from a vendor (an outsourcing company) — audited the code and documentation, restored the architectural context and handed the project over to the in-house team without losing functionality.
+- Enhanced the backend of the new events catalog on Node.js and TypeScript (NestJS, PostgreSQL, Redis) — from the data model to the RESTful API.
+- Took part in migrating the service to the company-adopted stack (a proprietary PHP framework) — moving logic and data without losing functionality.
+
 **Stack:** TypeScript, Node.js, NestJS, RESTful API, PostgreSQL, Redis
 
 ### Alean (National Tour Operator) — Full Stack Developer
@@ -90,6 +109,13 @@ Development of the backend for a new events catalog, including the migration to 
 **Period:** June 2019 — August 2020 · 1 year 3 months · Moscow, Russia
 
 Developed microservices and proxy applications for the travel platform. Implemented APIs for B2B and B2C back offices, and worked on interaction between services built on a different stack.
+
+**Achievements:**
+- Developed microservices for the travel platform and a proxy application acting as an API Gateway and orchestrator between services, enabling interaction between services built on different stacks.
+- Integrated the travel platform with external hotel and airline systems — from RESTful API to the SOAP protocol — providing a unified integration layer for search, booking and up-to-date data retrieval.
+- Implemented APIs for B2B and B2C back offices and an API Facade for partners.
+- Developed back-office interfaces in React and Redux and migrated legacy dashboards from Angular, covering the full cycle from API to UI.
+- Improved the UX of the dashboards — increased sales conversion through the company's website.
 
 **Stack:** TypeScript, Node.js, Express, React, Redux, RESTful API, MySQL, PostgreSQL, Redis
 
@@ -101,6 +127,12 @@ Developed microservices and proxy applications for the travel platform. Implemen
 
 Developed a SaaS learning management system, including microservices for the company's ecosystem on Laravel, Lumen, PostgreSQL, Redis and RabbitMQ, marketing automation services and integrations with external services: Bitrix24, Admitad, Post Affiliate Pro, Google Measurement Protocol, GetResponse, Sendsay and others.
 
+**Achievements:**
+- Developed microservices for the SaaS learning system on Laravel and Lumen (PostgreSQL, Redis, RabbitMQ) — the backbone of the company's ecosystem.
+- Built marketing automation services: customer interaction scenarios and internal reporting.
+- Integrated the LMS with external services — Bitrix24, Admitad, Post Affiliate Pro, Google Measurement Protocol, GetResponse, Sendsay and others.
+- Reduced time to market for services and accelerated the integration of new tools for hypothesis testing, which drove conversion and sales growth.
+
 **Stack:** PHP, TypeScript, Node.js, Express, RESTful API, PostgreSQL, Redis, RabbitMQ
 
 ### i-Media — Junior Web Developer
@@ -110,6 +142,11 @@ Developed a SaaS learning management system, including microservices for the com
 **Period:** June 2016 — September 2016 · 4 months · Moscow, Russia
 
 Summer job and internship. Developed websites and landing pages for the company's clients, and integrated CRM systems and marketing services.
+
+**Achievements:**
+- Developed websites and landing pages for the company's clients using JavaScript, PHP and MySQL.
+- Set up integrations of the websites with CRM systems and marketing services, automating lead collection.
+- Reduced time to market by launching advertising campaigns within tight deadlines.
 
 **Stack:** JavaScript, PHP, RESTful API, MySQL
 
