@@ -42,7 +42,15 @@ Software Engineer с более чем 9-летним опытом работы 
 
 **Период:** октябрь 2023 — настоящее время · 3 года · Россия, Москва
 
-Technical Lead в платформенной команде, которая проектирует и внедряет API Gateway для высоконагруженной микросервисной архитектуры. Отвечаю за автоматическое масштабирование и балансировку нагрузки, управление внутренним и внешним трафиком, observability распределённой системы и безопасное взаимодействие между сервисами. Infrastructure-стек: Kubernetes, Kong, OpenResty, Jaeger, OpenTelemetry, VictoriaMetrics, PostgreSQL, OpenSearch, Kafka, Go- и Node.js-сервисы.
+Technical Lead в платформенной команде, которая проектирует и внедряет API Management платформу для высоконагруженной микросервисной архитектуры. Отвечаю за автоматическое масштабирование и балансировку нагрузки, управление внутренним и внешним трафиком, observability распределённой системы и безопасное взаимодействие между сервисами. Развиваю self-service возможности платформы: API Governance, каталог и версионирование API, поддержка спецификаций в разных форматах (OpenAPI, AsyncAPI и Markdown-документы), глубокий анализ (changelog между версиями, отслеживание deprecated, сигналы обратной совместимости, глобальный поиск) и quality pipeline (Spectral для OpenAPI и AsyncAPI, опциональный AI-review для OpenAPI, оценка качества на уровне версии в linter-сервисе). Разрабатываю плагины Kong на Lua. Infrastructure-стек: Kubernetes, Kong, OpenResty, Jaeger, OpenTelemetry, VictoriaMetrics, PostgreSQL, OpenSearch, Kafka, Go и Node.js-сервисы.
+
+**Достижения:**
+- Разрабатывал self-service API Management платформы для управления кластерами и конфигурацией Kong Gateway и Kafka: API Governance, каталог и версионирование, спецификации OpenAPI и AsyncAPI, quality pipeline и плагины Kong на Lua.
+- Перевёл архитектуру API Management платформы на High Availability с размещением в 3 дата-центрах, что увеличило доступность критичного продукта. Наладил ведение и публикацию архитектурных артефактов в рамках центра компетенций технической архитектуры.
+- Снизил техдолг и долг безопасности (SAST, DAST, OWASP) на 30%, внедрил AI SDLC-процессы (+20% к количеству релизов) и улучшил Code Review с AI Review (+30% к стабильности релизов и качеству кода).
+- Проработал интеграции API Management платформы, которая содержит базу знаний по всем API, с внешними продуктами (REST, MCP), в том числе для AI-платформы.
+- Разработал платформенную библиотеку для Kafka на Confluent's JavaScript Client for Apache Kafka в рамках Internal Development Platform компании.
+- Проводил Developer Review внутри команды и в рамках центра компетенций backend: рост разработчиков, обратная связь и проработка индивидуального плана развития.
 
 **Стек:** Go, TypeScript, Node.js, NestJS, RESTful API, PostgreSQL, Redis, Apache Kafka, RabbitMQ
 
@@ -56,7 +64,7 @@ Technical Lead в платформенной команде, которая пр
 
 **Стек:** Go, TypeScript, Node.js, NestJS, PostgreSQL, Redis, Apache Kafka, RabbitMQ
 
-### Софт Проект — Backend-разработчик (старший) · Backend Engineer
+### Софт Проект — Backend-разработчик (ведущий) · Backend Engineer
 
 [career.habr.com/companies/sftpro](https://career.habr.com/companies/sftpro)
 

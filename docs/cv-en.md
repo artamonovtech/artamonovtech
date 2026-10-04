@@ -41,7 +41,15 @@ Software Engineer with 9+ years of experience in product companies. I have worke
 
 **Period:** October 2023 — Present · 3 years · Moscow, Russia
 
-Technical Lead in a platform team that designs and implements the API Gateway of a high-load microservices architecture. Responsible for autoscaling and load balancing, internal and external traffic management, observability of a distributed system, and secure service-to-service communication. Infrastructure stack: Kubernetes, Kong, OpenResty, Jaeger, OpenTelemetry, VictoriaMetrics, PostgreSQL, OpenSearch, Kafka, Go and Node.js services.
+Technical Lead in a platform team that designs and implements the API Management platform for a high-load microservices architecture. Responsible for autoscaling and load balancing, internal and external traffic management, observability of a distributed system, and secure service-to-service communication. I develop the platform's self-service capabilities: API Governance, API catalog and versioning, support for multi-format specifications (OpenAPI, AsyncAPI and Markdown documents), deep analysis (changelog between versions, deprecated tracking, backward-compatibility signals, global search) and a quality pipeline (Spectral for OpenAPI and AsyncAPI, optional AI-assisted review for OpenAPI, version-level scoring in the linter service). I build Kong plugins in Lua. Infrastructure stack: Kubernetes, Kong, OpenResty, Jaeger, OpenTelemetry, VictoriaMetrics, PostgreSQL, OpenSearch, Kafka, Go and Node.js services.
+
+**Achievements:**
+- Developed a self-service for the API Management platform to manage Kong Gateway and Kafka clusters and configuration: API Governance, catalog and versioning, OpenAPI and AsyncAPI specs, quality pipeline and Kong plugins in Lua.
+- Migrated the API Management platform architecture to High Availability across 3 data centers, improving the availability of a critical product. Established maintenance and publishing of architecture artifacts within the Technical Architecture competence center.
+- Reduced technical and security debt (SAST, DAST, OWASP) by 30%, introduced AI SDLC processes (+20% releases) and improved Code Review with AI Review (+30% release stability and code quality).
+- Worked out integrations of the API Management platform, which holds a knowledge base of all APIs, with external products (REST, MCP), including for the AI platform.
+- Built a platform library for Kafka based on Confluent's JavaScript Client for Apache Kafka within the company's Internal Development Platform.
+- Ran Developer Reviews within the team and across the backend competence center: engineer growth, feedback and personal development plans.
 
 **Stack:** Go, TypeScript, Node.js, NestJS, RESTful API, PostgreSQL, Redis, Apache Kafka, RabbitMQ
 
