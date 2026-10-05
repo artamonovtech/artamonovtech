@@ -41,7 +41,7 @@ Software Engineer with 9+ years of experience in product companies. I have worke
 
 **Period:** October 2023 — Present · 3 years · Moscow, Russia
 
-Technical Lead in a platform team that designs and implements the API Management platform for a high-load microservices architecture. Responsible for autoscaling and load balancing, internal and external traffic management, observability of a distributed system, and secure service-to-service communication. I develop the platform's self-service capabilities: API Governance, API catalog and versioning, support for multi-format specifications (OpenAPI, AsyncAPI and Markdown documents), deep analysis (changelog between versions, deprecated tracking, backward-compatibility signals, global search) and a quality pipeline (Spectral for OpenAPI and AsyncAPI, optional AI-assisted review for OpenAPI, version-level scoring in the linter service). I build Kong plugins in Lua. Infrastructure stack: Kubernetes, Kong, OpenResty, Jaeger, OpenTelemetry, VictoriaMetrics, PostgreSQL, OpenSearch, Kafka, Go and Node.js services.
+Technical Lead in a platform team that designs and implements the API Management platform for a high-load microservices architecture. Responsible for autoscaling and load balancing, internal and external traffic management, observability of a distributed system, and secure service-to-service communication. I develop the platform's self-service capabilities: API Governance, API catalog and versioning, support for multi-format specifications (OpenAPI, AsyncAPI and Markdown documents), deep analysis (changelog between versions, deprecated tracking, backward-compatibility signals, global search) and a quality pipeline (Spectral for OpenAPI and AsyncAPI, version-level scoring in the linter service). I build Kong plugins in Lua. Infrastructure stack: Kubernetes, Kong, OpenResty, Jaeger, OpenTelemetry, VictoriaMetrics, PostgreSQL, OpenSearch, Kafka, Go and Node.js services.
 
 **Achievements:**
 - Developed a self-service for the API Management platform to manage Kong Gateway and Kafka clusters and configuration: API Governance, catalog and versioning, OpenAPI and AsyncAPI specs, quality pipeline and Kong plugins in Lua.
@@ -81,7 +81,7 @@ Developed microservices for the multi-channel communication CPaaS platform. Appo
 **Achievements:**
 - Decomposed and decoupled modules of a Ruby on Rails monolith, rethought legacy approaches and diversified the technology stack — improved performance of bottlenecks thanks to extracted services.
 - Developed microservices for the multi-channel communication CPaaS platform on Node.js (Express, Fastify, Socket.IO) and Go.
-- Designed service data handling: using the Billing Service as an example, migrated from MySQL to ClickHouse — higher transaction throughput and faster analytics. Rethought the asynchronous architecture and moved it to RabbitMQ with deduplication on Redis. Improved the High Availability of the Billing Service: ClickHouse in a fault-tolerant cluster and RabbitMQ in durable mode.
+- Designed service data handling: using the Billing Service as an example, migrated from MySQL to ClickHouse — higher transaction throughput and faster analytics. Rethought the asynchronous architecture and moved it to RabbitMQ with deduplication on Redis.
 - Covered critical scenarios with Unit and E2E tests on Jest and described APIs with OpenAPI — stable releases and clear contracts for adjacent teams.
 - Appointed Tech Lead of the Node.js services: task decomposition and delegation, mentoring and code reviews.
 
